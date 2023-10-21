@@ -23,7 +23,7 @@ button {
   cursor: pointer;
 }
 .pictures {
-  width: 200px
+  width: 100px
 }
 .gallery {
   display: grid;
